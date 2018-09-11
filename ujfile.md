@@ -1,3 +1,3 @@
 #Cím
 
-Ez egy másik, új fájl
+Ez egy **másik**, új fájl
